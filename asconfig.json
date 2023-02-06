@@ -1,8 +1,8 @@
 {
   "targets": {
     "test": {
-      "outFile": "build/debug.wasm",
-      "textFile": "build/debug.wat",
+      "outFile": "build/test.wasm",
+      "textFile": "build/test.wat",
       "sourceMap": true,
       "debug": true,
       "optimizeLevel": 3,
